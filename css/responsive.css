@@ -1,0 +1,252 @@
+@media (max-width: 768px) {
+    header {
+        width: 689px;
+        padding-top: 49px;
+    }
+
+    main {
+        margin: 0;
+        margin-top: 62px;
+        margin-left: 39px;
+        justify-content: start;
+        width: 729px;
+        overflow: hidden;
+    }
+
+    .div2 {
+        width: 339px;
+        height: 305px;
+    }
+
+    h1 {
+        width: 339px;
+        height: 96px;
+        font-size: 48px;
+        line-height: 48px;
+    }
+
+    .p1 {
+        width: 339px;
+        padding-top: 34px;
+        padding-bottom: 39px;
+    }
+
+    .image-keyboard-desktop {
+        display: none;
+    }
+
+    .image-keyboard-tablet {
+        display: block;
+    }
+
+    .section1 {
+        display: block;
+        width: 689px;
+        height: 500px;
+    }
+
+    .image-phone-and-keyboard-desktop {
+        display: none;
+    }
+
+    .image-glass-and-keyboard-desktop {
+        display: none;
+    }
+
+    .image-phone-and-keyboard-tablet,
+    .image-glass-and-keyboard-tablet {
+        display: block;
+        border-radius: 20px;
+    }
+
+    .image-glass-and-keyboard-tablet {
+        width: 445px;
+        height: 320px;
+        margin-left: 30px;
+    }
+
+    .div5 {
+        display: flex;
+        padding-top: 72px;
+        /* width: 689px;
+        height: 108px; */
+    }
+
+    .h2-4 {
+        padding-top: 0px;
+    }
+
+    .p2 {
+        padding-top: 0px;
+        width: 398px;
+        height: 78px;
+        padding-left: 36px;
+    }
+
+    .section2 {
+        width: 631px;
+        height: 650px;
+        flex-wrap: wrap;
+        margin-top: 142px;
+    }
+
+    .div6:nth-child(3),
+    .div6:nth-child(4) {
+        padding-top: 72px;
+    }
+
+    footer {
+        margin-left: 247px;
+    }
+}
+
+@media (max-width: 375px) {
+    header {
+        width: 327px;
+    }
+
+    main {
+        width: 351px;
+        height: 681px;
+        margin-top: 64px;
+        display: block;
+        margin-left: 24px;
+    }
+
+    .div2 {
+        padding-top: 0px;
+        width: 327px;
+        height: 286px;
+    }
+
+    h1 {
+        width: 327px;
+    }
+
+    .p1 {
+        width: 327px;
+        font-size: 16px;
+        padding-top: 32px;
+        padding-bottom: 32px;
+    }
+
+    .h2-2 {
+        width: 123px;
+        height: 26px;
+        padding: 11px 14px;
+    }
+
+    .h2-3 {
+        padding-top: 11px;
+        padding-left: 32px;
+    }
+
+    .div3 {
+        width: 310px;
+        height: 48px;
+        padding-top: 0px;
+    }
+
+    .div4 {
+        width: 150px;
+        height: 48px;
+    }
+
+    .image-keyboard-tablet,
+    .image-phone-and-keyboard-tablet,
+    .image-glass-and-keyboard-tablet {
+        display: none;
+    }
+
+    .image-keyboard-mobile {
+        display: block;
+        width: 351px;
+        height: 331px;
+        margin-top: 64px;
+        border-radius: 20px;
+    }
+
+    .image-phone-and-keyboard-mobile {
+        display: block;
+        width: 129px;
+        height: 193px;
+    }
+
+    .image-glass-and-keyboard-mobile {
+        display: block;
+        border-radius: 20px;
+        width: 220px;
+        height: 193px;
+        margin-left: 24px;
+    }
+
+    .div5 {
+        display: block;
+        padding-top: 75px;
+    }
+
+    .h2-4 {
+        padding-left: 60px;
+        text-align: center;
+    }
+
+    .p2 {
+        width: 327px;
+        height: 104px;
+        padding-top: 24px;
+        text-align: center;
+        padding-left: 24px;
+    }
+
+    .section2 {
+        width: 327px;
+        margin-top: 111px;
+        height: 1485px;
+    }
+
+    .div6 {
+        margin: 0 auto;
+        width: 327px;
+        height: 297px;
+    }
+
+    .div6:nth-child(2),
+    .div6:nth-child(3),
+    .div6:nth-child(4) {
+        padding-top: 64px;
+    }
+
+    .div7 {
+        margin: 0 auto;
+    }
+
+    .h2-5,
+    .h2-5-1,
+    .h2-5-2 {
+        text-align: center;
+        width: 327px;
+    }
+
+    .h2-5-1 {
+        display: none;
+    }
+
+    .h2-5-2 {
+        display: block;
+    }
+
+    .p3 {
+        text-align: center;
+        width: 327px;
+        height: 104px;
+    }
+
+    footer {
+        margin: 0 auto;
+        margin-top: 96px;
+    }
+
+    .section1 {
+        width: 351px;
+    }
+}
